@@ -1,0 +1,2 @@
+﻿Xiaomi Monitor A27i;Xiaomi;27;1920x1080;4500;LCD;True;IPS;;
+Медицинський сенсорний монитор HMI;Aopen;23,8;1920x1080;46000;Touch;;;AHVA;0
